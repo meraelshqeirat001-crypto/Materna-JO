@@ -1,0 +1,12 @@
+{
+  "name": "Materna-JO",
+  "short_name": "Materna",
+  "description": "رفيقتك في الحمل وما بعد الولادة",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf6",
+  "theme_color": "#668d7c",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
